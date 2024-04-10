@@ -1,5 +1,5 @@
 void orangePomsMission();
 
-void rochHeapMission();
+void rockHeapMission();
 
 void solarPanel();
